@@ -34,15 +34,10 @@ dask-worker-space/
 htmlcov
 dist/
 *.egg-info/
-python/build
-python/cugraph/bindings/*.cpp
 wheels/
 wheelhouse/
 _skbuild/
 cufile.log
-
-## pylibcugraph build directories & artifacts
-python/pylibcugraph/pylibcugraph.egg-info
 
 ## Patching
 *.diff
