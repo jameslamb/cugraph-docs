@@ -5,14 +5,14 @@
 
 .. autoclass:: PropertyGraph
 
-   
+
    .. automethod:: __init__
 
-   
+
    .. rubric:: Methods
 
    .. autosummary::
-   
+
       ~PropertyGraph.__init__
       ~PropertyGraph.add_edge_data
       ~PropertyGraph.add_vertex_data
@@ -38,15 +38,15 @@
       ~PropertyGraph.vertex_types_from_numerals
       ~PropertyGraph.vertex_vector_property_to_array
       ~PropertyGraph.vertices_ids
-   
-   
 
-   
-   
+
+
+
+
    .. rubric:: Attributes
 
    .. autosummary::
-   
+
       ~PropertyGraph.dst_col_name
       ~PropertyGraph.edge_id_col_name
       ~PropertyGraph.edge_property_names
@@ -58,5 +58,4 @@
       ~PropertyGraph.vertex_property_names
       ~PropertyGraph.vertex_types
       ~PropertyGraph.weight_col_name
-   
-   
+

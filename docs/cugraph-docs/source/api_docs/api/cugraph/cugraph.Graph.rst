@@ -5,14 +5,14 @@
 
 .. autoclass:: Graph
 
-   
+
    .. automethod:: __init__
 
-   
+
    .. rubric:: Methods
 
    .. autosummary::
-   
+
       ~Graph.__init__
       ~Graph.add_internal_vertex_id
       ~Graph.add_nodes_from
@@ -38,9 +38,8 @@
       ~Graph.to_directed
       ~Graph.to_undirected
       ~Graph.unrenumber
-   
-   
 
-   
-   
-   
+
+
+
+

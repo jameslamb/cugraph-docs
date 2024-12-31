@@ -3,7 +3,7 @@
 .. toctree::
    :maxdepth: 3
 
- 
+
 # Getting cuGraph Packages
 
 Start by reading the [RAPIDS Instalation guide](https://docs.rapids.ai/install)

@@ -5,14 +5,14 @@
 
 .. autoclass:: MultiGraph
 
-   
+
    .. automethod:: __init__
 
-   
+
    .. rubric:: Methods
 
    .. autosummary::
-   
+
       ~MultiGraph.__init__
       ~MultiGraph.add_internal_vertex_id
       ~MultiGraph.add_nodes_from
@@ -38,9 +38,8 @@
       ~MultiGraph.to_directed
       ~MultiGraph.to_undirected
       ~MultiGraph.unrenumber
-   
-   
 
-   
-   
-   
+
+
+
+

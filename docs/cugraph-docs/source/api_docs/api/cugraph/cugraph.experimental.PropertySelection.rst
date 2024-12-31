@@ -5,18 +5,17 @@
 
 .. autoclass:: PropertySelection
 
-   
+
    .. automethod:: __init__
 
-   
+
    .. rubric:: Methods
 
    .. autosummary::
-   
-      ~PropertySelection.__init__
-   
-   
 
-   
-   
-   
+      ~PropertySelection.__init__
+
+
+
+
+

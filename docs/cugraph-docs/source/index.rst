@@ -46,7 +46,7 @@ This includes several ways to set up cuGraph
 
 Build From Source
 
-To build from source, check each RAPIDS GitHub README for set up and build instructions. Further links are provided in the `selector tool <https://docs.rapids.ai/install#selector>`_. 
+To build from source, check each RAPIDS GitHub README for set up and build instructions. Further links are provided in the `selector tool <https://docs.rapids.ai/install#selector>`_.
 If additional help is needed reach out on our `Slack Channel <https://rapids-goai.slack.com/archives/C5E06F4DC>`_.
 
 CuGraph Using NetworkX Code
@@ -60,7 +60,7 @@ Nx-cugraph offers those with existing NetworkX code, a **zero code change** opti
   # Import needed libraries
   import cugraph
   import cudf
-  
+
   # Create an instance of the popular Zachary Karate Club graph
   from cugraph.datasets import karate
   G = karate.get_graph()
@@ -86,7 +86,7 @@ is a good place to start. Some of these show `multi-GPU tests/examples <https://
   wholegraph/index
   references/index
   api_docs/index
-   
+
 Indices and tables
 ==================
 

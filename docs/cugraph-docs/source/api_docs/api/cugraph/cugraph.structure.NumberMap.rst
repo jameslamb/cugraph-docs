@@ -5,14 +5,14 @@
 
 .. autoclass:: NumberMap
 
-   
+
    .. automethod:: __init__
 
-   
+
    .. rubric:: Methods
 
    .. autosummary::
-   
+
       ~NumberMap.__init__
       ~NumberMap.add_internal_vertex_id
       ~NumberMap.compute_vals
@@ -25,9 +25,8 @@
       ~NumberMap.to_internal_vertex_id
       ~NumberMap.unrenumber
       ~NumberMap.vertex_column_size
-   
-   
 
-   
-   
-   
+
+
+
+
